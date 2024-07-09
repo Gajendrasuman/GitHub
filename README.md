@@ -45,3 +45,43 @@ Welcome to the GitNest project! This is an ambitious project aiming to replicate
    ```sh
    git clone https://github.com/Gajendrasuman/github.git
    cd github
+
+
+## 📂 Project Structure
+
+### Front-end (Next.js)
+
+```java
+frontend/
+├── components/
+├── pages/
+├── services/
+├── styles/
+├── public/
+├── .env
+└── package.json
+```
+
+### Back-end (Node.js with Express)
+
+```java
+backend/
+├── controllers/
+├── models/
+├── routes/
+├── middlewares/
+├── .env
+└── package.json
+```
+###
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+Fork the project
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a pull request
+###
+## 📜 License
+Distributed under the MIT License. See LICENSE for more information.
